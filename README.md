@@ -3,6 +3,7 @@ This test script demonstrates how to create tests using Xamarin Test Cloud and X
 
 #Author
 June Cho 
+
 Microsoft Technical Solutions Professional
 
 #License 
