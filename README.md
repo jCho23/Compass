@@ -1,7 +1,9 @@
 # Compass
+This test script demonstrates how to create tests using Xamarin Test Cloud and Xamarin Studio.
 
 #Author
-June Cho Microsoft Technical Solutions Professional
+June Cho 
+Microsoft Technical Solutions Professional
 
 #License 
 MIT License
