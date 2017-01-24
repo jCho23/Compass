@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C2E03EB9-3911-4F31-B726-E87544AAA582}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Compass/Tests.cs">
+    <Files>
+      <File FileName="Compass/AppInitializer.cs" Line="43" Column="1" />
+      <File FileName="Compass/Tests.cs" Line="85" Column="26" />
+      <File FileName="Compass/packages.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Compass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
