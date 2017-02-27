@@ -1,7 +1,0 @@
-/Users/junecho/Projects/Compass/Compass/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/junecho/Projects/Compass/Compass/bin/Debug/Compass.dll.mdb
-/Users/junecho/Projects/Compass/Compass/bin/Debug/Compass.dll
-/Users/junecho/Projects/Compass/Compass/obj/Debug/Compass.dll
-/Users/junecho/Projects/Compass/Compass/obj/Debug/Compass.dll.mdb
-/Users/junecho/Projects/Compass/Compass/bin/Debug/nunit.framework.dll
-/Users/junecho/Projects/Compass/Compass/bin/Debug/Xamarin.UITest.dll
