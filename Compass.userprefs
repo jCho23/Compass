@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Compass/Tests.cs">
     <Files>
       <File FileName="Compass/AppInitializer.cs" Line="43" Column="1" />
-      <File FileName="Compass/Tests.cs" Line="45" Column="82" />
+      <File FileName="Compass/Tests.cs" Line="1" Column="1" />
       <File FileName="Compass/packages.config" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
